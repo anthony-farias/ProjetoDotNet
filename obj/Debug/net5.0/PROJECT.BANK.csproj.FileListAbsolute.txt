@@ -1,0 +1,32 @@
+C:\Users\ANTHONY\PROJECT.BANK\bin\Debug\net5.0\PROJECT.BANK.exe
+C:\Users\ANTHONY\PROJECT.BANK\bin\Debug\net5.0\PROJECT.BANK.deps.json
+C:\Users\ANTHONY\PROJECT.BANK\bin\Debug\net5.0\PROJECT.BANK.runtimeconfig.json
+C:\Users\ANTHONY\PROJECT.BANK\bin\Debug\net5.0\PROJECT.BANK.runtimeconfig.dev.json
+C:\Users\ANTHONY\PROJECT.BANK\bin\Debug\net5.0\PROJECT.BANK.dll
+C:\Users\ANTHONY\PROJECT.BANK\bin\Debug\net5.0\ref\PROJECT.BANK.dll
+C:\Users\ANTHONY\PROJECT.BANK\bin\Debug\net5.0\PROJECT.BANK.pdb
+C:\Users\ANTHONY\PROJECT.BANK\obj\Debug\net5.0\PROJECT.BANK.csprojAssemblyReference.cache
+C:\Users\ANTHONY\PROJECT.BANK\obj\Debug\net5.0\PROJECT.BANK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANTHONY\PROJECT.BANK\obj\Debug\net5.0\PROJECT.BANK.AssemblyInfoInputs.cache
+C:\Users\ANTHONY\PROJECT.BANK\obj\Debug\net5.0\PROJECT.BANK.AssemblyInfo.cs
+C:\Users\ANTHONY\PROJECT.BANK\obj\Debug\net5.0\PROJECT.BANK.csproj.CoreCompileInputs.cache
+C:\Users\ANTHONY\PROJECT.BANK\obj\Debug\net5.0\PROJECT.BANK.dll
+C:\Users\ANTHONY\PROJECT.BANK\obj\Debug\net5.0\ref\PROJECT.BANK.dll
+C:\Users\ANTHONY\PROJECT.BANK\obj\Debug\net5.0\PROJECT.BANK.pdb
+C:\Users\ANTHONY\PROJECT.BANK\obj\Debug\net5.0\PROJECT.BANK.genruntimeconfig.cache
+C:\Users\ANTHONY\Desktop\dotnet projeto1\bin\Debug\net5.0\PROJECT.BANK.exe
+C:\Users\ANTHONY\Desktop\dotnet projeto1\bin\Debug\net5.0\PROJECT.BANK.deps.json
+C:\Users\ANTHONY\Desktop\dotnet projeto1\bin\Debug\net5.0\PROJECT.BANK.runtimeconfig.json
+C:\Users\ANTHONY\Desktop\dotnet projeto1\bin\Debug\net5.0\PROJECT.BANK.runtimeconfig.dev.json
+C:\Users\ANTHONY\Desktop\dotnet projeto1\bin\Debug\net5.0\PROJECT.BANK.dll
+C:\Users\ANTHONY\Desktop\dotnet projeto1\bin\Debug\net5.0\ref\PROJECT.BANK.dll
+C:\Users\ANTHONY\Desktop\dotnet projeto1\bin\Debug\net5.0\PROJECT.BANK.pdb
+C:\Users\ANTHONY\Desktop\dotnet projeto1\obj\Debug\net5.0\PROJECT.BANK.csprojAssemblyReference.cache
+C:\Users\ANTHONY\Desktop\dotnet projeto1\obj\Debug\net5.0\PROJECT.BANK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANTHONY\Desktop\dotnet projeto1\obj\Debug\net5.0\PROJECT.BANK.AssemblyInfoInputs.cache
+C:\Users\ANTHONY\Desktop\dotnet projeto1\obj\Debug\net5.0\PROJECT.BANK.AssemblyInfo.cs
+C:\Users\ANTHONY\Desktop\dotnet projeto1\obj\Debug\net5.0\PROJECT.BANK.csproj.CoreCompileInputs.cache
+C:\Users\ANTHONY\Desktop\dotnet projeto1\obj\Debug\net5.0\PROJECT.BANK.dll
+C:\Users\ANTHONY\Desktop\dotnet projeto1\obj\Debug\net5.0\ref\PROJECT.BANK.dll
+C:\Users\ANTHONY\Desktop\dotnet projeto1\obj\Debug\net5.0\PROJECT.BANK.pdb
+C:\Users\ANTHONY\Desktop\dotnet projeto1\obj\Debug\net5.0\PROJECT.BANK.genruntimeconfig.cache
